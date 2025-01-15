@@ -7,14 +7,17 @@ This repository contains an implementation of a Retrieval-Augmented Generation (
 
   Combines dense vector search with LLMs to retrieve the most relevant context for a query.
   Ensures accurate and factually grounded responses by referencing external knowledge sources.
+  
 2. Generative AI Integration:
 
   Employs advanced LLMs to generate human-like answers based on retrieved context.
   Handles nuanced queries across diverse domains.
+  
 3. Customizable & Scalable:
 
   Supports integration with custom datasets or APIs for domain-specific applications.
   Scalable architecture for both small and large datasets.
+  
 4. Real-World Applications:
 
   Customer Support: Automated, intelligent assistance for FAQs or troubleshooting.
